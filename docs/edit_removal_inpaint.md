@@ -91,7 +91,10 @@ Example1. Bear dataset
 bash script/edit_object_inpaint.sh output/bear config/object_inpaint/bear.json
 ```
 
+script/edit_object_inpaint.ps1 result/bear config/object_inpaint/bear.json
+
 Example2. Kitchen dataset
 ```
 bash script/edit_object_inpaint.sh output/mipnerf360/kitchen config/object_inpaint/mipnerf360/kitchen.json
 ```
+
