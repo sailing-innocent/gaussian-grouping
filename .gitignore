@@ -1,4 +1,4 @@
-/build
+build
 /bin
 .xmake
 .cache
@@ -7,7 +7,7 @@ __pycache__
 output
 eval
 config.json
-/dist
+dist
 /core
 /data
 /doc
@@ -15,3 +15,4 @@ vsxmake2022
 compile_commands.json
 /screenshot.png 
 /imgui.ini
+*.egg-info
