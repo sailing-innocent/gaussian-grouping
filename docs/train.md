@@ -16,6 +16,7 @@ data
 
 
 ### 1.2 (Optional) Prepare your own datasets
+
 For your custom dataset, you can follow this step to create masks for training. If you want to prepare masks on your own dataset, you will need [DEVA](../Tracking-Anything-with-DEVA/README.md) python environment and checkpoints.
 
 

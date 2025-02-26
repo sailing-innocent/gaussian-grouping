@@ -1,0 +1,17 @@
+/build
+/bin
+.xmake
+.cache
+__pycache__
+.pytest_cache
+output
+eval
+config.json
+/dist
+/core
+/data
+/doc
+vsxmake2022
+compile_commands.json
+/screenshot.png 
+/imgui.ini
